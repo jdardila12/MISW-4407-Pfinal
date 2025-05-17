@@ -1,0 +1,94 @@
+{
+    "sound": "assets/snd/game_start.ogg",
+    "1up": {
+        "text": "1UP",
+        "size": 8,
+        "color":{
+            "r": 255,
+            "g": 0,
+            "b": 0
+        },
+        "position": {
+            "x": 25,
+            "y": 5
+        }
+    },
+    "score": {
+        "text": "00",
+        "size": 8,
+        "color":{
+            "r": 255,
+            "g": 255,
+            "b": 255
+        },
+        "position": {
+            "x": 45,
+            "y": 15
+        }
+    },
+    "hi_score": {
+        "text": "HI-SCORE",
+        "size": 8,
+        "color":{
+            "r": 255,
+            "g": 0,
+            "b": 0
+        },
+        "position": {
+            "x": 120,
+            "y": 5
+        }
+    },
+    "hi_score_value": {
+        "text": "5000",
+        "size": 8,
+        "color":{
+            "r": 30,
+            "g": 144,
+            "b": 255
+        },
+        "position": {
+            "x": 128,
+            "y": 15
+        }
+    },
+    "game_start": {
+        "text": "GAME START",
+        "size": 8,
+        "color":{
+            "r": 255,
+            "g": 255,
+            "b": 255
+        },
+        "position": {
+            "x": 128,
+            "y": 150
+        }
+    },
+    "Lifes": {
+        "text": "LIFES",
+        "size": 8,
+        "color":{
+            "r": 255,
+            "g": 0,
+            "b": 0
+        },
+        "position": {
+            "x": 180,
+            "y": 5
+        }
+    },
+    "Level": {
+        "text": "LEVEL",
+        "size": 8,
+        "color":{
+            "r": 255,
+            "g": 0,
+            "b": 0
+        },
+        "position": {
+            "x": 230,
+            "y": 5
+        }
+    }
+}

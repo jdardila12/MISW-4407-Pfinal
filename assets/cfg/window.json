@@ -1,0 +1,13 @@
+{
+    "title": "MISW-4407-Pfinal",
+    "size": {
+        "w": 256,
+        "h": 240
+    },
+    "bg_color": {
+        "r": 0,
+        "g": 0,
+        "b": 0
+    },
+    "framerate": 60
+}

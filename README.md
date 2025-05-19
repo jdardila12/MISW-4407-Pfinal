@@ -31,9 +31,11 @@ Activa la vista de **Debug**:
 
 ## Enlace al Juego Publicado
 
-[itch.io]
+[itch.io] https://jdardila12.itch.io/misw-4407-pfinal
 
 ## Estructura del Proyecto
+
+https://github.com/jdardila12/MISW-4407-Pfinal/blob/main/Documentation/mermaid-diagram-2025-05-16-114134.png
 
 MISW-4407-Pfinal
 ├─ .git
